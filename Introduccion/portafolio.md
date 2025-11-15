@@ -1,4 +1,4 @@
-📊 Matematicas discretas
+📊 Matemáticas discretas
 ---
 ## 📚 Portafolio de Matemáticas discretas
 ---
