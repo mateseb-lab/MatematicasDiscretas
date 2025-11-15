@@ -1,4 +1,4 @@
-# 📊 Matematicas discretas
+# [⬅️](..//Inroduccion/portafolio.md)📊 Matematicas discretas
 
 ---
 ## 📚 Contenidos Portafolio Unidad 1
