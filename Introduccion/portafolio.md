@@ -2,7 +2,7 @@
 ---
 ## 📚 Portafolio de Matematicas Discretas.
 ---
-### 📔Carátula: [-👉Acceder-](../Unidad1/contenidosunidad1.md)
+### 📔Carátula: [-👉Acceder-](../Introduccion/caratula.md)
 ---
 
 ### 1️⃣ 🧩Unidad 1: Contenidos de la Unidad:  [-👉Acceder-](../Unidad1/contenidos.md)
