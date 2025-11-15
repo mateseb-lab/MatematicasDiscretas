@@ -4,7 +4,7 @@
 ---
 
 ### 🧩APE: Resolucion de ejercicios.
-Este trabajo se realizo 40 ejercicios que van desde las proposiciones logicas, como tablas de verdad propuestos que son utiles para practicar el pensamiento logico, el trabajo se realizo en grupo de trabajo en clase.
+Este trabajo se realizo 40 ejercicios, ademas de 8 ejercicios teoricos. Estos ejercicios van desde temas las proposiciones logicas, como tablas de verdad propuestos que son utiles para practicar el pensamiento logico, el trabajo se realizo en grupo de trabajo en clase.
 ### [-👉Acceder-](https://drive.google.com/file/d/1jVsDoOzRaeIaFLVyPIxc47Q38jqSlec8/view?usp=sharing)
 
 ---
