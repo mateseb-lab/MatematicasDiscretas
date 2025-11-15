@@ -3,7 +3,7 @@
 ---
 ## 📚 Contenidos Unidad 1:
 ---
-### 📘APE: Resolucion de ejercicios.
+### 📝APE: Resolucion de ejercicios.
 En este trabajo se desarrollo 40 ejercicios, además de 8 ejercicios teóricos. Estos ejercicios van desde temas como proposiciones lógicas y tablas de verdad, los cuales son útiles para practicar el pensamiento lógico. El trabajo se realizó en grupo durante hora clase:
 ### [-👉Acceder-](https://drive.google.com/file/d/1jVsDoOzRaeIaFLVyPIxc47Q38jqSlec8/view?usp=sharing)
 
