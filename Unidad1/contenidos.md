@@ -20,5 +20,7 @@ Se realizo una investigacion acerca de las mutliples leyes de proposiciones y  d
 ### ⚙️AA: Lectura y ejercicios
 Desarrollamos en grupo dos ejercicios que contienen leyes de las proposicones logica y leyes de inferencia, practicando el desarrollo de ejercicios de estos temas investigados.
 ### [-👉Acceder-](https://drive.google.com/file/d/1ysOOilNXOIsZemckdz8EI0rhpByZc2yF/view?usp=sharing)
+### ⚙️AA2: Portafolio de Matemáticas Discretas
+Se desarrollo un portafolio digital que contenga adjuntadas todas las actividades realizadas de matematicas discretas en la unidad 1.
 
 
