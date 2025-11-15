@@ -1,6 +1,6 @@
 📊 Matematicas discretas
 ---
-## 📚 Portafolio de Matematicas Discretas.
+## 📚 Portafolio de Matemáticas discretas
 ---
 ### 📔Carátula: [-👉Acceder-](../Introduccion/caratula.md)
 ---
