@@ -4,12 +4,12 @@
 ---
 ## 🏛️ **Facultad de Energías, Industrias y Recursos Naturales No Renovables**
 ---
-### 💻 *Matematicas Discretas*  
+### 💻 *Matemáticas discretas*  
 ### 📘 *Primer Ciclo*  
 
 ---
 
-## 🧩 **Asignatura:** *_Matematicas Discretas_*  
+## 🧩 **Asignatura:** *_Matemáticas discretas_*  
 ## 👨‍🏫 **Docente:** MARIO ENRIQUE CUEVA HURTADO 
 ## 👨‍🎓 **Estudiante:** MATEO SEBASTIÁN PUCHA CARRERA
 ---
