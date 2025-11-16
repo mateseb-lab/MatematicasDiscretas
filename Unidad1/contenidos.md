@@ -25,6 +25,8 @@ Desarrollamos esta actividad en grupo. Contiene dos ejercicios relacionados con 
 ---
 ### ⚙️AA2: Portafolio de Matemáticas Discretas
 Se desarrolló un portafolio digital que contenga adjuntadas todas las actividades realizadas de matemáticas discretas en la unidad 1:
+### [-👉Acceder-](..//Introduccion/caratula.md)
+
 
 ---
 
