@@ -10,7 +10,7 @@
 ---
 
 ## 🧩 **Asignatura:** *_Matemáticas discretas_*  
-## 👨‍🏫 **Docente:** MARIO ENRIQUE CUEVA HURTADO 
+## 👨‍🏫 **Docente:** Ing. MARIO ENRIQUE CUEVA HURTADO 
 ## 👨‍🎓 **Estudiante:** MATEO SEBASTIÁN PUCHA CARRERA
 ---
 
