@@ -18,6 +18,8 @@
 
 ---
 
-## 🔗 [📂 Portafolio Digital de Matematicas Discretas](portafolio.md)
+## ➡️ [📂 Portafolio Digital de Matemáticas Discretas](portafolio.md)
+
+---
 
 </div>
