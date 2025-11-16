@@ -4,7 +4,7 @@
 ---
 ## 🏛️ **Facultad de Energías, Industrias y Recursos Naturales No Renovables**
 ---
-### 📚 *Matemáticas discretas*  
+### 📚 *Portafolio digital de Matemáticas discretas*  
 ### 📘 *Primer Ciclo*  
 
 ---
